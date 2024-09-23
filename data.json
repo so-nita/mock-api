@@ -1,0 +1,24 @@
+[
+    {
+        "CreatedDate": "08-Sep-2021",
+        "CreatedBy": "Admin",
+        "ShopName": "King Mart",
+        "PromotionType": "Percentage",
+        "StartDate": "08-Sep-2021",
+        "EndDate": "06-Oct-2021",
+        "PercentageSale": null,
+        "PriceAfterDiscount": "$4.25",
+        "Status": true
+    },
+    {
+        "CreatedDate": "07-Sep-2021",
+        "CreatedBy": "Admin",
+        "ShopName": "King Mart",
+        "PromotionType": "Percentage",
+        "StartDate": "29-Sep-2021",
+        "EndDate": "05-Oct-2021",
+        "PercentageSale": null,
+        "PriceAfterDiscount": "$77.00",
+        "Status": false
+    }
+]
